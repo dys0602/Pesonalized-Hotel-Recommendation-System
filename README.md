@@ -49,8 +49,13 @@
     2. 유사도 기반 가중치(3,2,1) 조정 후 상위 호텔 3개 출력
     3. 상위 3개 지도(folium) 시각화, Radar Chart, 호텔별 긍/부정 WordCloud, 호텔별 유용한 리뷰 출력
 
-    
-## 4. 팀원
+
+## 4. 사용 기술
+- Python : Pandas, Numpy, Matplotlib, Selenium, Tensorflow, Folium …
+- Excel
+- Tableau
+
+## 5. 팀원
 |이름|역할|email|
 |---|---|---|
 |지다영|팀장|dys621124@gmail.com|
